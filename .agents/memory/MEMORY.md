@@ -1,0 +1,4 @@
+- [Legacy Telegram voice calls](legacy-telegram-voice-calls.md) — keep PyTgCalls and ntgcalls versions aligned until the streaming code is migrated.
+- [YouTube search/httpx compatibility](youtube-search-httpx-compat.md) — keep youtube-search-python 1.6.6 on httpx 0.27.2; httpx 0.28 breaks `/play` search.
+- [YouTube audio download validation](youtube-audio-download-validation.md) — provider HTTP 200 responses may still contain non-audio bytes; validate with FFprobe before caching or playback.
+- [Lyrics provider fallback](lyrics-provider-fallback.md) — Genius public search returned 403; use the identified LRCLIB endpoint instead of letting Genius errors escape `/lyrics`.

@@ -1,0 +1,740 @@
+[20-Oct-26 14:50:14 - INFO] - ArchMusic.core.dir - Directories Updated.
+[20-Oct-26 14:50:14 - INFO] - ArchMusic.core.git - Git Client Found [VPS DEPLOYER]
+[20-Oct-26 14:50:14 - INFO] - ArchMusic.misc - Database Initialized.
+[20-Oct-26 14:50:14 - INFO] - ArchMusic.misc - Sudoers Loaded.
+[20-Oct-26 14:50:14 - INFO] - ArchMusic.core.bot - Starting Bot
+[20-Oct-26 14:51:21 - INFO] - ArchMusic.core.dir - Directories Updated.
+[20-Oct-26 14:51:21 - INFO] - ArchMusic.core.git - Git Client Found [VPS DEPLOYER]
+[20-Oct-26 14:51:21 - INFO] - ArchMusic.misc - Database Initialized.
+[20-Oct-26 14:51:21 - INFO] - ArchMusic.misc - Sudoers Loaded.
+[20-Oct-26 14:51:21 - INFO] - ArchMusic.core.bot - Starting Bot
+[20-Oct-26 14:59:05 - INFO] - ArchMusic.core.dir - Directories Updated.
+[20-Oct-26 14:59:05 - INFO] - ArchMusic.core.git - Git Client Found [VPS DEPLOYER]
+[20-Oct-26 14:59:05 - INFO] - ArchMusic.misc - Database Initialized.
+[20-Oct-26 14:59:05 - INFO] - ArchMusic.misc - Sudoers Loaded.
+[20-Oct-26 14:59:05 - INFO] - ArchMusic.core.bot - Starting Bot
+[20-Oct-26 14:59:06 - WARNING] - ArchMusic - No Spotify Vars defined. Your bot won't be able to play spotify queries.
+[20-Oct-26 14:59:09 - ERROR] - ArchMusic.core.bot - Bot has failed to access the log Group. Make sure that you have added your bot to your log channel and promoted as admin!
+[20-Oct-26 14:59:34 - INFO] - ArchMusic.core.dir - Directories Updated.
+[20-Oct-26 14:59:34 - INFO] - ArchMusic.core.git - Git Client Found [VPS DEPLOYER]
+[20-Oct-26 14:59:34 - INFO] - ArchMusic.misc - Database Initialized.
+[20-Oct-26 14:59:34 - INFO] - ArchMusic.misc - Sudoers Loaded.
+[20-Oct-26 14:59:34 - INFO] - ArchMusic.core.bot - Starting Bot
+[20-Oct-26 14:59:35 - WARNING] - ArchMusic - No Spotify Vars defined. Your bot won't be able to play spotify queries.
+[20-Oct-26 14:59:37 - ERROR] - ArchMusic.core.bot - Bot could not post its startup message to the log group. Check the configured group ID and bot permissions. Telegram error: Peer id invalid: -1004338097966
+[20-Oct-26 15:00:10 - INFO] - ArchMusic.core.dir - Directories Updated.
+[20-Oct-26 15:00:10 - INFO] - ArchMusic.core.git - Git Client Found [VPS DEPLOYER]
+[20-Oct-26 15:00:10 - INFO] - ArchMusic.misc - Database Initialized.
+[20-Oct-26 15:00:10 - INFO] - ArchMusic.misc - Sudoers Loaded.
+[20-Oct-26 15:00:10 - INFO] - ArchMusic.core.bot - Starting Bot
+[20-Oct-26 15:00:11 - WARNING] - ArchMusic - No Spotify Vars defined. Your bot won't be able to play spotify queries.
+[20-Oct-26 15:00:14 - ERROR] - ArchMusic.core.bot - Bot could not post its startup message to the log group. Check the configured group ID and bot permissions. Telegram error: Peer id invalid: -1004338097966
+[20-Oct-26 15:09:02 - INFO] - ArchMusic.core.dir - Directories Updated.
+[20-Oct-26 15:09:02 - INFO] - ArchMusic.core.git - Git Client Found [VPS DEPLOYER]
+[20-Oct-26 15:09:02 - INFO] - ArchMusic.misc - Database Initialized.
+[20-Oct-26 15:09:02 - INFO] - ArchMusic.misc - Sudoers Loaded.
+[20-Oct-26 15:09:02 - INFO] - ArchMusic.core.bot - Starting Bot
+[20-Oct-26 15:09:03 - WARNING] - ArchMusic - No Spotify Vars defined. Your bot won't be able to play spotify queries.
+[20-Oct-26 15:09:14 - ERROR] - ArchMusic.core.bot - Bot could not post its startup message to the log group. Check the configured group ID and bot permissions. Telegram error: Peer id invalid: -1004338097966
+[20-Oct-26 15:12:02 - INFO] - ArchMusic.core.dir - Directories Updated.
+[20-Oct-26 15:12:02 - INFO] - ArchMusic.core.git - Git Client Found [VPS DEPLOYER]
+[20-Oct-26 15:12:02 - INFO] - ArchMusic.misc - Database Initialized.
+[20-Oct-26 15:12:02 - INFO] - ArchMusic.misc - Sudoers Loaded.
+[20-Oct-26 15:12:02 - INFO] - ArchMusic.core.bot - Starting Bot
+[20-Oct-26 15:12:03 - WARNING] - ArchMusic - No Spotify Vars defined. Your bot won't be able to play spotify queries.
+[20-Oct-26 15:12:06 - ERROR] - ArchMusic.core.bot - Bot could not post its startup message to the log group. Check the configured group ID and bot permissions. Telegram error: Peer id invalid: -1004338097966
+[20-Oct-26 15:13:39 - INFO] - ArchMusic.core.dir - Directories Updated.
+[20-Oct-26 15:13:39 - INFO] - ArchMusic.core.git - Git Client Found [VPS DEPLOYER]
+[20-Oct-26 15:13:39 - INFO] - ArchMusic.misc - Database Initialized.
+[20-Oct-26 15:13:39 - INFO] - ArchMusic.misc - Sudoers Loaded.
+[20-Oct-26 15:13:39 - INFO] - ArchMusic.core.bot - Starting Bot
+[20-Oct-26 15:13:40 - WARNING] - ArchMusic - No Spotify Vars defined. Your bot won't be able to play spotify queries.
+[20-Oct-26 15:13:43 - ERROR] - ArchMusic.core.bot - Bot could not post its startup message to the log group. Check the configured group ID and bot permissions. Telegram error: Peer id invalid: -1004338097966
+[20-Oct-26 15:23:42 - INFO] - ArchMusic.core.dir - Directories Updated.
+[20-Oct-26 15:23:42 - INFO] - ArchMusic.core.git - Git Client Found [VPS DEPLOYER]
+[20-Oct-26 15:23:42 - INFO] - ArchMusic.misc - Database Initialized.
+[20-Oct-26 15:23:42 - INFO] - ArchMusic.misc - Sudoers Loaded.
+[20-Oct-26 15:23:42 - INFO] - ArchMusic.core.bot - Starting Bot
+[20-Oct-26 15:23:42 - INFO] - ArchMusic.core.dir - Directories Updated.
+[20-Oct-26 15:23:42 - INFO] - ArchMusic.core.git - Git Client Found [VPS DEPLOYER]
+[20-Oct-26 15:23:42 - INFO] - ArchMusic.misc - Database Initialized.
+[20-Oct-26 15:23:42 - INFO] - ArchMusic.misc - Sudoers Loaded.
+[20-Oct-26 15:23:42 - INFO] - ArchMusic.core.bot - Starting Bot
+[20-Oct-26 15:24:03 - INFO] - ArchMusic.core.dir - Directories Updated.
+[20-Oct-26 15:24:03 - INFO] - ArchMusic.core.git - Git Client Found [VPS DEPLOYER]
+[20-Oct-26 15:24:03 - INFO] - ArchMusic.misc - Database Initialized.
+[20-Oct-26 15:24:03 - INFO] - ArchMusic.misc - Sudoers Loaded.
+[20-Oct-26 15:24:03 - INFO] - ArchMusic.core.bot - Starting Bot
+[20-Oct-26 15:24:04 - WARNING] - ArchMusic - No Spotify Vars defined. Your bot won't be able to play spotify queries.
+[20-Oct-26 15:24:16 - INFO] - ArchMusic.core.bot - MusicBot Started as —͟͞Ꭰᴇsᴛɪɴʏㅤ〆 ᴍᴜsɪᴄ
+[20-Oct-26 15:24:17 - INFO] - ArchMusic.plugins - Successfully Imported Modules 
+[20-Oct-26 15:24:17 - INFO] - ArchMusic.core.userbot - Starting Assistant Clients
+[20-Oct-26 15:24:23 - INFO] - ArchMusic.core.userbot - Assistant Started as 🌸𝆺𝅥⃝🍃 ⃪ͥ͢ ᷟ ᛕɪᴛᴛʏ𓆪•┼⃖‌ꭗ🎋✨️
+[20-Oct-26 15:24:23 - INFO] - ArchMusic.core.call - Starting PyTgCalls Client
+
+[20-Oct-26 15:24:25 - ERROR] - asyncio - Task exception was never retrieved
+future: <Task finished name='Task-199' coro=<Client.handle_updates() done, defined at /home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pyrogram/client.py:535> exception=ValueError('Peer id invalid: -1002277119447')>
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pyrogram/methods/advanced/resolve_peer.py", line 62, in resolve_peer
+    return await self.storage.get_peer_by_id(peer_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pyrogram/storage/sqlite_storage.py", line 142, in get_peer_by_id
+    raise KeyError(f"ID not found: {peer_id}")
+KeyError: 'ID not found: -1002277119447'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pyrogram/client.py", line 569, in handle_updates
+    channel=await self.resolve_peer(utils.get_channel_id(channel_id)),
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pyrogram/methods/advanced/resolve_peer.py", line 89, in resolve_peer
+    peer_type = utils.get_peer_type(peer_id)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pyrogram/utils.py", line 246, in get_peer_type
+    raise ValueError(f"Peer id invalid: {peer_id}")
+ValueError: Peer id invalid: -1002277119447
+[20-Oct-26 15:24:26 - ERROR] - asyncio - Task exception was never retrieved
+future: <Task finished name='Task-217' coro=<Client.handle_updates() done, defined at /home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pyrogram/client.py:535> exception=ValueError('Peer id invalid: -1002277119447')>
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pyrogram/methods/advanced/resolve_peer.py", line 62, in resolve_peer
+    return await self.storage.get_peer_by_id(peer_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pyrogram/storage/sqlite_storage.py", line 142, in get_peer_by_id
+    raise KeyError(f"ID not found: {peer_id}")
+KeyError: 'ID not found: -1002277119447'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pyrogram/client.py", line 569, in handle_updates
+    channel=await self.resolve_peer(utils.get_channel_id(channel_id)),
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pyrogram/methods/advanced/resolve_peer.py", line 89, in resolve_peer
+    peer_type = utils.get_peer_type(peer_id)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pyrogram/utils.py", line 246, in get_peer_type
+    raise ValueError(f"Peer id invalid: {peer_id}")
+ValueError: Peer id invalid: -1002277119447
+[20-Oct-26 15:24:29 - INFO] - ArchMusic - Arch Music Bot Started Successfully
+[20-Oct-26 15:29:28 - INFO] - root - Stop signal received (SIGTERM). Exiting...
+[20-Oct-26 15:29:28 - INFO] - ArchMusic - Stopping Arch Music Bot! GoodBye
+[20-Oct-26 15:29:36 - INFO] - ArchMusic.core.dir - Directories Updated.
+[20-Oct-26 15:29:36 - INFO] - ArchMusic.core.git - Git Client Found [VPS DEPLOYER]
+[20-Oct-26 15:29:36 - INFO] - ArchMusic.misc - Database Initialized.
+[20-Oct-26 15:29:37 - INFO] - ArchMusic.misc - Sudoers Loaded.
+[20-Oct-26 15:29:37 - INFO] - ArchMusic.core.bot - Starting Bot
+[20-Oct-26 15:29:38 - WARNING] - ArchMusic - No Spotify Vars defined. Your bot won't be able to play spotify queries.
+[20-Oct-26 15:29:43 - INFO] - ArchMusic.core.bot - MusicBot Started as —͟͞Ꭰᴇsᴛɪɴʏㅤ〆 ᴍᴜsɪᴄ
+[20-Oct-26 15:29:43 - INFO] - ArchMusic.plugins - Successfully Imported Modules 
+[20-Oct-26 15:29:43 - INFO] - ArchMusic.core.userbot - Starting Assistant Clients
+[20-Oct-26 15:29:50 - INFO] - ArchMusic.core.userbot - Assistant Started as 🌸𝆺𝅥⃝🍃 ⃪ͥ͢ ᷟ ᛕɪᴛᴛʏ𓆪•┼⃖‌ꭗ🎋✨️
+[20-Oct-26 15:29:50 - INFO] - ArchMusic.core.call - Starting PyTgCalls Client
+
+[20-Oct-26 15:29:55 - INFO] - ArchMusic - Arch Music Bot Started Successfully
+[20-Oct-26 15:33:58 - INFO] - root - Stop signal received (SIGTERM). Exiting...
+[20-Oct-26 15:33:58 - INFO] - ArchMusic - Stopping Arch Music Bot! GoodBye
+[20-Oct-26 15:34:01 - INFO] - ArchMusic.core.dir - Directories Updated.
+[20-Oct-26 15:34:01 - INFO] - ArchMusic.core.git - Git Client Found [VPS DEPLOYER]
+[20-Oct-26 15:34:01 - INFO] - ArchMusic.misc - Database Initialized.
+[20-Oct-26 15:34:01 - INFO] - ArchMusic.misc - Sudoers Loaded.
+[20-Oct-26 15:34:01 - INFO] - ArchMusic.core.bot - Starting Bot
+[20-Oct-26 15:34:02 - WARNING] - ArchMusic - No Spotify Vars defined. Your bot won't be able to play spotify queries.
+[20-Oct-26 15:34:07 - INFO] - ArchMusic.core.bot - MusicBot Started as —͟͞Ꭰᴇsᴛɪɴʏㅤ〆 ᴍᴜsɪᴄ
+[20-Oct-26 15:34:07 - INFO] - ArchMusic.plugins - Successfully Imported Modules 
+[20-Oct-26 15:34:07 - INFO] - ArchMusic.core.userbot - Starting Assistant Clients
+[20-Oct-26 15:34:13 - INFO] - ArchMusic.core.userbot - Assistant Started as 🌸𝆺𝅥⃝🍃 ⃪ͥ͢ ᷟ ᛕɪᴛᴛʏ𓆪•┼⃖‌ꭗ🎋✨️
+[20-Oct-26 15:34:13 - INFO] - ArchMusic.core.call - Starting PyTgCalls Client
+
+[20-Oct-26 15:34:15 - ERROR] - asyncio - Task exception was never retrieved
+future: <Task finished name='Task-205' coro=<Client.handle_updates() done, defined at /home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pyrogram/client.py:535> exception=ValueError('Peer id invalid: -1003611265760')>
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pyrogram/methods/advanced/resolve_peer.py", line 62, in resolve_peer
+    return await self.storage.get_peer_by_id(peer_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pyrogram/storage/sqlite_storage.py", line 142, in get_peer_by_id
+    raise KeyError(f"ID not found: {peer_id}")
+KeyError: 'ID not found: -1003611265760'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pyrogram/client.py", line 569, in handle_updates
+    channel=await self.resolve_peer(utils.get_channel_id(channel_id)),
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pyrogram/methods/advanced/resolve_peer.py", line 89, in resolve_peer
+    peer_type = utils.get_peer_type(peer_id)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pyrogram/utils.py", line 246, in get_peer_type
+    raise ValueError(f"Peer id invalid: {peer_id}")
+ValueError: Peer id invalid: -1003611265760
+[20-Oct-26 15:34:19 - INFO] - ArchMusic - Arch Music Bot Started Successfully
+[20-Oct-26 15:36:37 - INFO] - root - Stop signal received (SIGTERM). Exiting...
+[20-Oct-26 15:36:37 - INFO] - ArchMusic - Stopping Arch Music Bot! GoodBye
+[20-Oct-26 15:36:40 - INFO] - ArchMusic.core.dir - Directories Updated.
+[20-Oct-26 15:36:40 - INFO] - ArchMusic.core.git - Git Client Found [VPS DEPLOYER]
+[20-Oct-26 15:36:40 - INFO] - ArchMusic.misc - Database Initialized.
+[20-Oct-26 15:36:40 - INFO] - ArchMusic.misc - Sudoers Loaded.
+[20-Oct-26 15:36:40 - INFO] - ArchMusic.core.bot - Starting Bot
+[20-Oct-26 15:36:41 - WARNING] - ArchMusic - No Spotify Vars defined. Your bot won't be able to play spotify queries.
+[20-Oct-26 15:36:45 - INFO] - ArchMusic.core.bot - MusicBot Started as —͟͞Ꭰᴇsᴛɪɴʏㅤ〆 ᴍᴜsɪᴄ
+[20-Oct-26 15:36:46 - INFO] - ArchMusic.plugins - Successfully Imported Modules 
+[20-Oct-26 15:36:46 - INFO] - ArchMusic.core.userbot - Starting Assistant Clients
+[20-Oct-26 15:36:52 - INFO] - ArchMusic.core.userbot - Assistant Started as 🌸𝆺𝅥⃝🍃 ⃪ͥ͢ ᷟ ᛕɪᴛᴛʏ𓆪•┼⃖‌ꭗ🎋✨️
+[20-Oct-26 15:36:52 - INFO] - ArchMusic.core.call - Starting PyTgCalls Client
+
+[20-Oct-26 15:36:58 - INFO] - ArchMusic - Arch Music Bot Started Successfully
+[20-Oct-26 15:39:17 - INFO] - root - Stop signal received (SIGTERM). Exiting...
+[20-Oct-26 15:39:18 - INFO] - ArchMusic - Stopping Arch Music Bot! GoodBye
+[20-Oct-26 15:39:22 - INFO] - ArchMusic.core.dir - Directories Updated.
+[20-Oct-26 15:39:22 - INFO] - ArchMusic.core.git - Git Client Found [VPS DEPLOYER]
+[20-Oct-26 15:39:22 - INFO] - ArchMusic.misc - Database Initialized.
+[20-Oct-26 15:39:22 - INFO] - ArchMusic.misc - Sudoers Loaded.
+[20-Oct-26 15:39:22 - INFO] - ArchMusic.core.bot - Starting Bot
+[20-Oct-26 15:39:24 - WARNING] - ArchMusic - No Spotify Vars defined. Your bot won't be able to play spotify queries.
+[20-Oct-26 15:39:31 - INFO] - ArchMusic.core.bot - MusicBot Started as —͟͞Ꭰᴇsᴛɪɴʏㅤ〆 ᴍᴜsɪᴄ
+[20-Oct-26 15:39:31 - INFO] - ArchMusic.plugins - Successfully Imported Modules 
+[20-Oct-26 15:39:31 - INFO] - ArchMusic.core.userbot - Starting Assistant Clients
+[20-Oct-26 15:39:37 - INFO] - ArchMusic.core.userbot - Assistant Started as 🌸𝆺𝅥⃝🍃 ⃪ͥ͢ ᷟ ᛕɪᴛᴛʏ𓆪•┼⃖‌ꭗ🎋✨️
+[20-Oct-26 15:39:37 - INFO] - ArchMusic.core.call - Starting PyTgCalls Client
+
+[20-Oct-26 15:39:43 - INFO] - ArchMusic - Arch Music Bot Started Successfully
+[20-Oct-26 15:39:47 - INFO] - httpx - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+[20-Oct-26 15:42:04 - INFO] - root - Stop signal received (SIGTERM). Exiting...
+[20-Oct-26 15:42:05 - INFO] - ArchMusic - Stopping Arch Music Bot! GoodBye
+[20-Oct-26 15:42:14 - INFO] - ArchMusic.core.dir - Directories Updated.
+[20-Oct-26 15:42:14 - INFO] - ArchMusic.core.git - Git Client Found [VPS DEPLOYER]
+[20-Oct-26 15:42:14 - INFO] - ArchMusic.misc - Database Initialized.
+[20-Oct-26 15:42:14 - INFO] - ArchMusic.misc - Sudoers Loaded.
+[20-Oct-26 15:42:14 - INFO] - ArchMusic.core.bot - Starting Bot
+[20-Oct-26 15:42:17 - WARNING] - ArchMusic - No Spotify Vars defined. Your bot won't be able to play spotify queries.
+[20-Oct-26 15:42:21 - INFO] - ArchMusic.core.bot - MusicBot Started as —͟͞Ꭰᴇsᴛɪɴʏㅤ〆 ᴍᴜsɪᴄ
+[20-Oct-26 15:42:21 - INFO] - ArchMusic.plugins - Successfully Imported Modules 
+[20-Oct-26 15:42:21 - INFO] - ArchMusic.core.userbot - Starting Assistant Clients
+[20-Oct-26 15:42:27 - INFO] - ArchMusic.core.userbot - Assistant Started as 🌸𝆺𝅥⃝🍃 ⃪ͥ͢ ᷟ ᛕɪᴛᴛʏ𓆪•┼⃖‌ꭗ🎋✨️
+[20-Oct-26 15:42:27 - INFO] - ArchMusic.core.call - Starting PyTgCalls Client
+
+[20-Oct-26 15:42:33 - INFO] - ArchMusic - Arch Music Bot Started Successfully
+[20-Oct-26 15:42:34 - INFO] - httpx - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+[20-Oct-26 15:42:34 - ERROR] - ArchMusic.plugins.play.play - Error while processing /play stream
+Traceback (most recent call last):
+  File "/home/runner/workspace/ArchMusic/plugins/play/play.py", line 420, in play_commnd
+    await stream(
+  File "/home/runner/workspace/ArchMusic/utils/stream/stream.py", line 183, in stream
+    await ArchMusic.join_call(
+  File "/home/runner/workspace/ArchMusic/core/call.py", line 288, in join_call
+    await assistant.join_group_call(
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pytgcalls/sync.py", line 40, in async_to_sync_wrap
+    coroutine = function(*args, **kwargs)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: JoinGroupCall.join_group_call() got an unexpected keyword argument 'stream_type'
+[20-Oct-26 15:43:07 - INFO] - httpx - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+[20-Oct-26 15:43:07 - ERROR] - ArchMusic.plugins.play.play - Error while processing /play stream
+Traceback (most recent call last):
+  File "/home/runner/workspace/ArchMusic/plugins/play/play.py", line 420, in play_commnd
+    await stream(
+  File "/home/runner/workspace/ArchMusic/utils/stream/stream.py", line 183, in stream
+    await ArchMusic.join_call(
+  File "/home/runner/workspace/ArchMusic/core/call.py", line 288, in join_call
+    await assistant.join_group_call(
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pytgcalls/sync.py", line 40, in async_to_sync_wrap
+    coroutine = function(*args, **kwargs)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: JoinGroupCall.join_group_call() got an unexpected keyword argument 'stream_type'
+[21-Oct-26 07:09:31 - INFO] - ArchMusic.core.dir - Directories Updated.
+[21-Oct-26 07:09:31 - INFO] - ArchMusic.core.git - Git Client Found [VPS DEPLOYER]
+[21-Oct-26 07:09:31 - INFO] - ArchMusic.misc - Database Initialized.
+[21-Oct-26 07:09:31 - INFO] - ArchMusic.misc - Sudoers Loaded.
+[21-Oct-26 07:09:31 - INFO] - ArchMusic.core.bot - Starting Bot
+[21-Oct-26 07:09:35 - WARNING] - ArchMusic - No Spotify Vars defined. Your bot won't be able to play spotify queries.
+[21-Oct-26 07:09:41 - INFO] - ArchMusic.core.bot - MusicBot Started as —͟͞Ꭰᴇsᴛɪɴʏㅤ〆 ᴍᴜsɪᴄ
+[21-Oct-26 07:09:41 - INFO] - ArchMusic.plugins - Successfully Imported Modules 
+[21-Oct-26 07:09:41 - INFO] - ArchMusic.core.userbot - Starting Assistant Clients
+[21-Oct-26 07:09:48 - INFO] - ArchMusic.core.userbot - Assistant Started as 🌸𝆺𝅥⃝🍃 ⃪ͥ͢ ᷟ ᛕɪᴛᴛʏ𓆪•┼⃖‌ꭗ🎋✨️
+[21-Oct-26 07:09:48 - INFO] - ArchMusic.core.call - Starting PyTgCalls Client
+
+[21-Oct-26 07:10:11 - INFO] - ArchMusic - Arch Music Bot Started Successfully
+[21-Oct-26 07:10:23 - INFO] - root - Stop signal received (SIGTERM). Exiting...
+[21-Oct-26 07:10:23 - INFO] - ArchMusic - Stopping Arch Music Bot! GoodBye
+[21-Oct-26 07:10:26 - INFO] - ArchMusic.core.dir - Directories Updated.
+[21-Oct-26 07:10:26 - INFO] - ArchMusic.core.git - Git Client Found [VPS DEPLOYER]
+[21-Oct-26 07:10:26 - INFO] - ArchMusic.misc - Database Initialized.
+[21-Oct-26 07:10:26 - INFO] - ArchMusic.misc - Sudoers Loaded.
+[21-Oct-26 07:10:26 - INFO] - ArchMusic.core.bot - Starting Bot
+[21-Oct-26 07:10:27 - WARNING] - ArchMusic - No Spotify Vars defined. Your bot won't be able to play spotify queries.
+[21-Oct-26 07:10:32 - INFO] - ArchMusic.core.bot - MusicBot Started as —͟͞Ꭰᴇsᴛɪɴʏㅤ〆 ᴍᴜsɪᴄ
+[21-Oct-26 07:10:32 - INFO] - ArchMusic.plugins - Successfully Imported Modules 
+[21-Oct-26 07:10:32 - INFO] - ArchMusic.core.userbot - Starting Assistant Clients
+[21-Oct-26 07:10:39 - INFO] - ArchMusic.core.userbot - Assistant Started as 🌸𝆺𝅥⃝🍃 ⃪ͥ͢ ᷟ ᛕɪᴛᴛʏ𓆪•┼⃖‌ꭗ🎋✨️
+[21-Oct-26 07:10:39 - INFO] - ArchMusic.core.call - Starting PyTgCalls Client
+
+[21-Oct-26 07:10:50 - INFO] - ArchMusic - Arch Music Bot Started Successfully
+[21-Oct-26 07:10:53 - INFO] - httpx - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+[21-Oct-26 07:11:09 - INFO] - httpx - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+[21-Oct-26 07:11:25 - INFO] - httpx - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+[21-Oct-26 07:12:28 - INFO] - httpx - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+[21-Oct-26 07:12:39 - ERROR] - ArchMusic.plugins.play.play - Error while processing /play stream
+Traceback (most recent call last):
+  File "/home/runner/workspace/ArchMusic/plugins/play/play.py", line 420, in play_commnd
+    await stream(
+  File "/home/runner/workspace/ArchMusic/utils/stream/stream.py", line 183, in stream
+    await ArchMusic.join_call(
+  File "/home/runner/workspace/ArchMusic/core/call.py", line 287, in join_call
+    await assistant.join_group_call(chat_id, stream)
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pytgcalls/methods/groups/join_group_call.py", line 51, in join_group_call
+    media_description = await StreamParams.get_stream_params(
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pytgcalls/methods/utilities/stream_params.py", line 23, in get_stream_params
+    await stream.check_stream()
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pytgcalls/types/input_stream/audio_piped.py", line 43, in check_stream
+    await check_stream(
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pytgcalls/ffmpeg.py", line 100, in check_stream
+    raise NoAudioSourceFound(path)
+pytgcalls.exceptions.NoAudioSourceFound: No audio source found on "downloads/D61BvxAOxm0.mp3"
+[21-Oct-26 07:12:56 - INFO] - httpx - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+[21-Oct-26 07:13:05 - INFO] - httpx - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+[21-Oct-26 07:13:18 - INFO] - httpx - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+[21-Oct-26 07:19:48 - INFO] - root - Stop signal received (SIGTERM). Exiting...
+[21-Oct-26 07:19:48 - INFO] - ArchMusic - Stopping Arch Music Bot! GoodBye
+[21-Oct-26 07:19:52 - INFO] - ArchMusic.core.dir - Directories Updated.
+[21-Oct-26 07:19:52 - INFO] - ArchMusic.core.git - Git Client Found [VPS DEPLOYER]
+[21-Oct-26 07:19:52 - INFO] - ArchMusic.misc - Database Initialized.
+[21-Oct-26 07:19:52 - INFO] - ArchMusic.misc - Sudoers Loaded.
+[21-Oct-26 07:19:52 - INFO] - ArchMusic.core.bot - Starting Bot
+[21-Oct-26 07:19:54 - WARNING] - ArchMusic - No Spotify Vars defined. Your bot won't be able to play spotify queries.
+[21-Oct-26 07:19:58 - INFO] - ArchMusic.core.bot - MusicBot Started as —͟͞Ꭰᴇsᴛɪɴʏㅤ〆 ᴍᴜsɪᴄ
+[21-Oct-26 07:19:59 - INFO] - ArchMusic.plugins - Successfully Imported Modules 
+[21-Oct-26 07:19:59 - INFO] - ArchMusic.core.userbot - Starting Assistant Clients
+[21-Oct-26 07:20:04 - INFO] - ArchMusic.core.userbot - Assistant Started as 🌸𝆺𝅥⃝🍃 ⃪ͥ͢ ᷟ ᛕɪᴛᴛʏ𓆪•┼⃖‌ꭗ🎋✨️
+[21-Oct-26 07:20:04 - INFO] - ArchMusic.core.call - Starting PyTgCalls Client
+
+[21-Oct-26 07:20:16 - INFO] - ArchMusic - Arch Music Bot Started Successfully
+[21-Oct-26 07:20:54 - INFO] - httpx - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+[21-Oct-26 07:21:02 - INFO] - httpx - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+[21-Oct-26 07:31:54 - INFO] - lyricsgenius.genius - Searching for "tu hai kahan"...
+[21-Oct-26 07:31:55 - ERROR] - pyrogram.dispatcher - Unexpected response status code: 403. Expected 200 or 204. Response body: <!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Genius</title>
+    <style>*{box-sizing:border-box}body{width:100%;margin:0;color:#fff;background:#000;font-family:Helvetica Neue,Arial,Helvetica,Geneva,sans-serif;font-size:20px;font-weight:700}a,a:active,a:focus{color:#3d85c6;text-decoration:none}a:hover{border-bottom:1px dotted}header{background-color:#ffff64;padding:10px;color:#000}header img{height:20px;display:block;margin:0 auto}main{max-width:860px;margin:0 auto}.text{text-align:center}.alert{margin:40px 20px}h1{font-size:7.5rem;text-transform:uppercase;font-weight:700;margin:0}@media screen and (max-width:420px){h1{font-size:3.5rem}}.distractions{margin:3rem auto 0;width:100%;max-width:700px}.iframe-container{width:100%;height:0;padding-top:56.25%;position:relative}.iframe-container iframe{max-width:100%;max-height:100%;position:absolute;top:0;left:0}</style>
+    <style type="text/css">.cloudflare_content{margin-top:2rem}#recaptcha_widget{display:flex;justify-content:center}</style>
+    <script type="text/javascript">!function(e,a){var t,n,i,l;a.__SV||((window.mixpanel=a)._i=[],a.init=function(e,t,n){function o(e,t){var n=t.split(".");2==n.length&&(e=e[n[0]],t=n[1]),e[t]=function(){e.push([t].concat(Array.prototype.slice.call(arguments,0)))}}var p=a;for(void 0!==n?p=a[n]=[]:n="mixpanel",p.people=p.people||[],p.toString=function(e){var t="mixpanel";return"mixpanel"!==n&&(t+="."+n),e||(t+=" (stub)"),t},p.people.toString=function(){return p.toString(1)+".people (stub)"},i="disable time_event track track_pageview track_links track_forms track_with_groups add_group set_group remove_group register register_once alias unregister identify name_tag set_config reset opt_in_tracking opt_out_tracking has_opted_in_tracking has_opted_out_tracking clear_opt_in_out_tracking start_batch_senders people.set people.set_once people.unset people.increment people.append people.union people.track_charge people.clear_charges people.delete_user people.remove".split(" "),l=0;l<i.length;l++)o(p,i[l]);var r="set set_once union unset remove delete".split(" ");p.get_group=function(){function e(e){t[e]=function(){call2_args=arguments,call2=[e].concat(Array.prototype.slice.call(call2_args,0)),p.push([n,call2])}}for(var t={},n=["get_group"].concat(Array.prototype.slice.call(arguments,0)),o=0;o<r.length;o++)e(r[o]);return t},a._i.push([e,t,n])},a.__SV=1.2,(t=e.createElement("script")).type="text/javascript",t.async=!0,t.src="undefined"!=typeof MIXPANEL_CUSTOM_LIB_URL?MIXPANEL_CUSTOM_LIB_URL:"file:"===e.location.protocol&&"//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js".match(/^\/\//)?"https://cdn.mxpnl.com/libs/mixpanel-2-latest.min.js":"//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js",(n=e.getElementsByTagName("script")[0]).parentNode.insertBefore(t,n))}(document,window.mixpanel||[]),mixpanel.init("77967c52dc38186cc1aadebdd19e2a82");</script>
+    <script type="text/javascript">/* eslint-env browser */
+/* globals mixpanel */
+/* eslint-disable no-unused-vars */
+const METRICS_URL = 'https://librato-collector.genius.com/v1/metrics';
+
+function sendToLibrato(body) {
+  if (navigator.sendBeacon) {
+    navigator.sendBeacon(
+      METRICS_URL,
+      new Blob([JSON.stringify(body)], {type: 'application/json'})
+    );
+  } else {
+    fetch(
+      METRICS_URL,
+      {
+        method: 'POST',
+        body: JSON.stringify(body),
+        headers: {'Content-Type': 'application/json'},
+      }
+    );
+  }
+}
+
+function count(name, {source}, extra = {}) {
+  sendToLibrato({counters: [{name, value: 1, source}]});
+  mixpanel.track(name, Object.assign({source}, extra));
+}
+</script>
+  <meta http-equiv="refresh" content="360"></head>
+  <body>
+    <header>
+      <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTUiPjxwYXRoIGQ9Ik0xMS43IDIuOXMwLS4xIDAgMGMtLjgtLjgtMS43LTEuMi0yLjgtMS4yLTEuMSAwLTIuMS40LTIuOCAxLjEtLjIuMi0uMy40LS41LjZ2LjFjMCAuMS4xLjEuMS4xLjQtLjIuOS0uMyAxLjQtLjMgMS4xIDAgMi4yLjUgMi45IDEuMmgxLjZjLjEgMCAuMS0uMS4xLS4xVjIuOWMuMSAwIDAgMCAwIDB6bS0uMSA0LjZoLTEuNWMtLjggMC0xLjQtLjYtMS41LTEuNC4xIDAgMC0uMSAwLS4xLS4zIDAtLjYuMi0uOC40di4yYy0uNiAxLjguMSAyLjQuOSAyLjRoMS4xYy4xIDAgLjEuMS4xLjF2LjRjMCAuMS4xLjEuMS4xLjYtLjEgMS4yLS40IDEuNy0uOFY3LjZjLjEgMCAwLS4xLS4xLS4xeiIvPjxwYXRoIGQ9Ik0xMS42IDExLjlzLS4xIDAgMCAwYy0uMSAwLS4xIDAgMCAwLS4xIDAtLjEgMCAwIDAtLjguMy0xLjYuNS0yLjUuNS0zLjcgMC02LjgtMy02LjgtNi44IDAtLjkuMi0xLjcuNS0yLjUgMC0uMS0uMS0uMS0uMi0uMWgtLjFDMS40IDQuMi44IDUuNy44IDcuNWMwIDMuNiAyLjkgNi40IDYuNCA2LjQgMS43IDAgMy4zLS43IDQuNC0xLjhWMTJjLjEgMCAwLS4xIDAtLjF6bTEzLjctMy4xaDMuNWMuOCAwIDEuNC0uNSAxLjQtMS4zdi0uMmMwLS4xLS4xLS4xLS4xLS4xaC00LjhjLS4xIDAtLjEuMS0uMS4xdjEuNGMtLjEgMCAwIC4xLjEuMXptNS4xLTYuN2gtNS4yYy0uMSAwLS4xLjEtLjEuMXYxLjRjMCAuMS4xLjEuMS4xSDI5Yy44IDAgMS40LS41IDEuNC0xLjN2LS4yYy4xLS4xLjEtLjEgMC0uMXoiLz48cGF0aCBkPSJNMzAuNCAxMi4zaC02LjFjLTEgMC0xLjYtLjYtMS42LTEuNlYxYzAtLjEtLjEtLjEtLjEtLjEtMS4xIDAtMS44LjctMS44IDEuOFYxMmMwIDEuMS43IDEuOCAxLjggMS44SDI5Yy44IDAgMS40LS42IDEuNC0xLjN2LS4xYy4xIDAgLjEtLjEgMC0uMXptMTIgMGMtLjYtLjEtLjktLjYtLjktMS4zVjEuMXMwLS4xLS4xLS4xSDQxYy0uOSAwLTEuNS42LTEuNSAxLjV2OS45YzAgLjkuNiAxLjUgMS41IDEuNS44IDAgMS40LS42IDEuNS0xLjUgMC0uMSAwLS4xLS4xLS4xem04LjIgMGgtLjJjLS45IDAtMS40LS40LTEuOC0xLjFsLTQuNS03LjQtLjEtLjFjLS4xIDAtLjEuMS0uMS4xVjhsMi44IDQuN2MuNC42LjkgMS4yIDIgMS4yIDEgMCAxLjctLjUgMi0xLjQgMC0uMi0uMS0uMi0uMS0uMnptLS45LTMuOGMuMSAwIC4xLS4xLjEtLjFWMS4xYzAtLjEgMC0uMS0uMS0uMWgtLjRjLS45IDAtMS41LjYtMS41IDEuNXYzLjFsMS43IDIuOGMuMSAwIC4xLjEuMi4xem0xMyAzLjhjLS42LS4xLS45LS42LS45LTEuMnYtMTBjMC0uMSAwLS4xLS4xLS4xaC0uM2MtLjkgMC0xLjUuNi0xLjUgMS41djkuOWMwIC45LjYgMS41IDEuNSAxLjUuOCAwIDEuNC0uNiAxLjUtMS41bC0uMi0uMXptMTguNC0uNUg4MWMtLjcuMy0xLjUuNS0yLjUuNS0xLjYgMC0yLjktLjUtMy43LTEuNC0uOS0xLTEuNC0yLjQtMS40LTQuMlYxYzAtLjEgMC0uMS0uMS0uMUg3M2MtLjkgMC0xLjUuNi0xLjUgMS41VjhjMCAzLjcgMiA1LjkgNS40IDUuOSAxLjkgMCAzLjQtLjcgNC4zLTEuOXYtLjFjMC0uMSAwLS4xLS4xLS4xeiIvPjxwYXRoIGQ9Ik04MS4yLjloLS4zYy0uOSAwLTEuNS42LTEuNSAxLjV2NS43YzAgLjctLjEgMS4zLS4zIDEuOCAwIC4xLjEuMS4xLjEgMS40LS4zIDIuMS0xLjQgMi4xLTMuM1YxYzAtLjEtLjEtLjEtLjEtLjF6bTEyLjcgNy42bDEuNC4zYzEuNS4zIDEuNi44IDEuNiAxLjIgMCAuMS4xLjEuMS4xIDEuMS0uMSAxLjgtLjcgMS44LTEuNXMtLjYtMS4yLTEuOS0xLjVsLTEuNC0uM2MtMy4yLS42LTMuOC0yLjMtMy44LTMuNiAwLS43LjItMS4zLjYtMS45di0uMmMwLS4xLS4xLS4xLS4xLS4xLTEuNS43LTIuMyAxLjktMi4zIDMuNC0uMSAyLjMgMS4zIDMuNyA0IDQuMXptNS4yIDMuMmMtLjEuMS0uMS4xIDAgMC0uOS40LTEuOC42LTIuOC42LTEuNiAwLTMtLjUtNC4zLTEuNC0uMy0uMy0uNS0uNi0uNS0xIDAtLjEgMC0uMS0uMS0uMXMtLjMtLjEtLjQtLjFjLS40IDAtLjguMi0xLjEuNi0uMi4zLS40LjctLjMgMS4xLjEuNC4zLjcuNiAxIDEuNCAxIDIuOCAxLjUgNC41IDEuNSAyIDAgMy43LS43IDQuNS0xLjl2LS4xYzAtLjEgMC0uMi0uMS0uMnoiLz48cGF0aCBkPSJNOTQuMSAzLjJjMCAuMS4xLjEuMS4xaC4yYzEuMSAwIDEuNy4zIDIuNC44LjMuMi42LjMgMSAuM3MuOC0uMiAxLjEtLjZjLjItLjMuMy0uNi4zLS45IDAtLjEgMC0uMS0uMS0uMS0uMiAwLS4zLS4xLS41LS4yLS44LS42LTEuNC0uOS0yLjYtLjktMS4yIDAtMiAuNi0yIDEuNC4xIDAgLjEgMCAuMS4xeiIvPjwvc3ZnPgo=" alt="Genius logo"/>
+    </header>
+    <main>
+      <div class="text alert">
+        <h1>Scrrrr!!</h1>
+        <div class="dek">Sorry, we have to make sure you're a human before we can show you this page.</div>
+        <div class="cloudflare_content">
+          <div class="main-wrapper" role="main"><div class="main-content"><noscript><div class="h2"><span id="challenge-error-text">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script>(function(){window._cf_chl_opt = {cFPWv: 'b',cH: '_M3hEAd5LBVzo3V0qF96.s_2QawtTFvBHZVom7vMZNM-1792567915-1.2.1.1-wJ49QU7N3pHepz88k6.OmEl2qM6fiY3PNxMr3CFPSJtn5JSvOvh6MlDZqDpLzOHu',cITimeS: '1792567915',cRay: 'a4de90bcf8284901',cTplC:1,cTplO:0,cTplV:5,cType: 'interactive',cUPMDTk:"/api/search/multi?q=tu+hai+kahan\u0026__cf_chl_tk=bqjuyp6bx8DLiwl8h4.G9H0gFogh0qXqeDrGGHe3t5U-1792567915-1.0.1.1-6ZI1GZPJib.jpD0qcjDgpyTF8vVuVF_3gUBpdZeHqXE",cvId: '3',cZone: 'genius.com',fa:"/api/search/multi?q=tu+hai+kahan\u0026__cf_chl_f_tk=bqjuyp6bx8DLiwl8h4.G9H0gFogh0qXqeDrGGHe3t5U-1792567915-1.0.1.1-6ZI1GZPJib.jpD0qcjDgpyTF8vVuVF_3gUBpdZeHqXE",md: '7pRFasFXsAlwRA5V4eCyNSFTfbcmgoC_4PLAbrL921U-1792567915-1.2.1.1-d6NiW3kL6m8tRiFMdgFrjOMnH007RBpyhnLrDR5VF4m33LTK1Jlbt36T7cefQGXccm29Pn1noO.Gl6zja_o6rhcysGCPgYcz6lAIKxp_GW.IpQtjUPyXjTeITFYAH5dQmFjFCle5nRMAxfcm3_HBjpBjN3QneLdfRnhkh3oIn6WnhnJgqAIZoFQ8BEi9bMLsdfcrZJRb6L3u.d3xVZ5Yi2IGwgd4aPWveB5cg.yANVuLyoA_GTXHLfj2EApGhDn0G.Q_7TLvZg05HiEX5GvlARdNXBELMYsQzTfV9C6It4.y78DAgjofL5JeToDlF3GZ9FzuMd.2TpXFqQ4kHEnif3ykfKAofPwfWy701xUhhJJql.Nw8TVFdSldg4N_UDYk62q9dyXVOw.a6Jq_yUPD_hzHJk5jEKHIGrxM5N4Cxl0.2_dmIQsJowATbjl._IyF4W9YqkUGupceWGXm8xqPIYFvlR8_i4rWRQofPDeYYi9K4CLMF5cIvFGgQfOZJ8FtAp_oBOoSzoVR418vki1k07AlOPBVpNj7G8QR_a7MBpzuZgX_flAKVcrbpTGx87EVZgBqEkbycODGV6Nut3E6aBG4LKXigRfcbekS0xSOds7rWoqgKa.br4UbwGTQl3stvu93aikBWGU2qr2v7iQFFmC46FekNMyD3wIoq.PKlwNv610rsemJdR8u_3nobl0F.SgZnk7.KzfUc_m5Dpyqamp69E7gjHZX6beeBiuZuEucdn_Fj38qcYdsBRDWzRsg3YuJye._qjG7fOcXS3.e7MBNzab0YFFhU_mBT7FEkkAnM_cfWS73XkhaRCsiHKd_VBezEAwcb9WNQG5kjRJNZlDBW.FKgafywxx0VmXa9aIclvaX57FL7QQqCZ0tVBx4Whd_HxjOBA7FASUdC_sJYu5FGUqqrBHaEBo2lzed5OraZK1abx92G0T.GNcHSRdP0uo5IbSWrXuBOCffdHvx3j3nhxw6FQ.H7u3ZbUJrRFdLP.QUW43U7Zhf3Lp.8t9dBxzZQmlpnSeN6L4MVV756o2yyV8ybfbKP1qWz3gFeMIIpnmd8zAycX_m8A47BqPIvj12yIQt8_U4f5s_u5Ujh..Ua3_vrEEQEKTj93hM1kY',mdrd: 'hpwCYp41iJbwd0L5pAq2udP9a4PugY.SyfWqHmge6Gg-1792567915-1.2.1.1-q_NZwbN674I788cQE5b0f9BsWbYULx_2EIEebb.05BWPiELDp8DhodyrZUEPtQeXXMKtAVaNUR6itIUYEkcaUJ91DxmWUfGBOrfutx8bqZHOXb4C90FR2YVjXvMZfjxi.VbDkdPTEvAtkBBEi346ciq8Gb25UaF2dtjfxfHWqa4j_e8Ewy7CG6itW95Pdr6yeVULRVDLj3WJvD8CpWSfxj3tLiN9zao8qyTB2wMy8LdnrLBkmE8iWPEOL0RM6Xb9',};var a = document.createElement('script');a.src = '/cdn-cgi/challenge-platform/h/b/orchestrate/chl_page/v1?ray=a4de90bcf8284901';window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null,"/api/search/multi?q=tu+hai+kahan\u0026__cf_chl_rt_tk=bqjuyp6bx8DLiwl8h4.G9H0gFogh0qXqeDrGGHe3t5U-1792567915-1.0.1.1-6ZI1GZPJib.jpD0qcjDgpyTF8vVuVF_3gUBpdZeHqXE"+ window._cf_chl_opt.cOgUHash);a.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName('head')[0].appendChild(a);}());</script>
+        </div>
+      </div>
+
+      <div class="text distractions">
+        <p>
+          <a href="https://twitter.com/genius" class="twitter-follow-button" data-show-count="true" data-size="large" data-dnt="true">Follow @genius</a>
+          <script>!function(t,e,r){var n,s=t.getElementsByTagName(e)[0],i=/^http:/.test(t.location)?"http":"https";t.getElementById(r)||((n=t.createElement(e)).id=r,n.src=i+"://platform.twitter.com/widgets.js",s.parentNode.insertBefore(n,s))}(document,"script","twitter-wjs");</script>
+        </p>
+      </div>
+    </main>
+    <script type="text/javascript">count("cloudflare_error.challenge",{source:"cloudflare"});</script>
+  </body>
+</html>. Response headers: {'Date': 'Wed, 21 Oct 2026 07:31:55 GMT', 'Content-Type': 'text/html; charset=UTF-8', 'Content-Length': '11191', 'Connection': 'close', 'Accept-Ch': 'Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version, UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA', 'Cf-Mitigated': 'challenge', 'X-Frame-Options': 'SAMEORIGIN', 'Server': 'cloudflare', 'Critical-Ch': 'Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version, UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA', 'Cross-Origin-Embedder-Policy': 'require-corp', 'Cross-Origin-Opener-Policy': 'same-origin', 'Cross-Origin-Resource-Policy': 'same-origin', 'Origin-Agent-Cluster': '?1', 'Permissions-Policy': 'accelerometer=(),camera=(),clipboard-read=(),clipboard-write=(),geolocation=(),gyroscope=(),hid=(),magnetometer=(),microphone=(),payment=(),publickey-credentials-get=(),screen-wake-lock=(),serial=(),sync-xhr=(),usb=(),xr-spatial-tracking=*', 'Referrer-Policy': 'same-origin', 'Server-Timing': 'chlray;desc="a4de90bcf8284901"', 'X-Content-Type-Options': 'nosniff', 'Vary': 'accept-encoding', 'set-cookie': '__cf_bm=h6ZRXN1RhL5DtVY9vr9IR6XCpRdmiWCQ18zXYgXUQ6I-1792567915.0381134-1.0.1.1-uW2FnCIF9l9kRHSaPCqxG8U.MUmcLUHsHrm.29sUUnXmbN6eKke9_zlt1RWNPJ5IUfWapbKXsVzsLlW.u3LoVWkUBvYFHRvCTgBV08ubLHJIHLSXFLRdOnAx18bEe6m.; HttpOnly; SameSite=None; Secure; Path=/; Domain=genius.com; Expires=Wed, 21 Oct 2026 08:01:55 GMT', 'CF-RAY': 'a4de90bcf8284901-BOM'}.
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pyrogram/dispatcher.py", line 240, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/home/runner/workspace/ArchMusic/utils/decorators/language.py", line 34, in wrapper
+    return await mystic(_, message, language)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/ArchMusic/plugins/tools/lyrics.py", line 48, in lrsearch
+    S = y.search_song(title, get_full_info=False)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/lyricsgenius/genius.py", line 562, in search_song
+    search_response = self.search_all(search_term)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/lyricsgenius/api/public_methods/search.py", line 231, in search_all
+    return self.search(search_term, per_page, page, "multi")
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/lyricsgenius/api/public_methods/search.py", line 58, in search
+    return self._make_request(path, params_=params, public_api=True)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/lyricsgenius/api/base.py", line 119, in _make_request
+    raise AssertionError(
+AssertionError: Unexpected response status code: 403. Expected 200 or 204. Response body: <!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Genius</title>
+    <style>*{box-sizing:border-box}body{width:100%;margin:0;color:#fff;background:#000;font-family:Helvetica Neue,Arial,Helvetica,Geneva,sans-serif;font-size:20px;font-weight:700}a,a:active,a:focus{color:#3d85c6;text-decoration:none}a:hover{border-bottom:1px dotted}header{background-color:#ffff64;padding:10px;color:#000}header img{height:20px;display:block;margin:0 auto}main{max-width:860px;margin:0 auto}.text{text-align:center}.alert{margin:40px 20px}h1{font-size:7.5rem;text-transform:uppercase;font-weight:700;margin:0}@media screen and (max-width:420px){h1{font-size:3.5rem}}.distractions{margin:3rem auto 0;width:100%;max-width:700px}.iframe-container{width:100%;height:0;padding-top:56.25%;position:relative}.iframe-container iframe{max-width:100%;max-height:100%;position:absolute;top:0;left:0}</style>
+    <style type="text/css">.cloudflare_content{margin-top:2rem}#recaptcha_widget{display:flex;justify-content:center}</style>
+    <script type="text/javascript">!function(e,a){var t,n,i,l;a.__SV||((window.mixpanel=a)._i=[],a.init=function(e,t,n){function o(e,t){var n=t.split(".");2==n.length&&(e=e[n[0]],t=n[1]),e[t]=function(){e.push([t].concat(Array.prototype.slice.call(arguments,0)))}}var p=a;for(void 0!==n?p=a[n]=[]:n="mixpanel",p.people=p.people||[],p.toString=function(e){var t="mixpanel";return"mixpanel"!==n&&(t+="."+n),e||(t+=" (stub)"),t},p.people.toString=function(){return p.toString(1)+".people (stub)"},i="disable time_event track track_pageview track_links track_forms track_with_groups add_group set_group remove_group register register_once alias unregister identify name_tag set_config reset opt_in_tracking opt_out_tracking has_opted_in_tracking has_opted_out_tracking clear_opt_in_out_tracking start_batch_senders people.set people.set_once people.unset people.increment people.append people.union people.track_charge people.clear_charges people.delete_user people.remove".split(" "),l=0;l<i.length;l++)o(p,i[l]);var r="set set_once union unset remove delete".split(" ");p.get_group=function(){function e(e){t[e]=function(){call2_args=arguments,call2=[e].concat(Array.prototype.slice.call(call2_args,0)),p.push([n,call2])}}for(var t={},n=["get_group"].concat(Array.prototype.slice.call(arguments,0)),o=0;o<r.length;o++)e(r[o]);return t},a._i.push([e,t,n])},a.__SV=1.2,(t=e.createElement("script")).type="text/javascript",t.async=!0,t.src="undefined"!=typeof MIXPANEL_CUSTOM_LIB_URL?MIXPANEL_CUSTOM_LIB_URL:"file:"===e.location.protocol&&"//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js".match(/^\/\//)?"https://cdn.mxpnl.com/libs/mixpanel-2-latest.min.js":"//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js",(n=e.getElementsByTagName("script")[0]).parentNode.insertBefore(t,n))}(document,window.mixpanel||[]),mixpanel.init("77967c52dc38186cc1aadebdd19e2a82");</script>
+    <script type="text/javascript">/* eslint-env browser */
+/* globals mixpanel */
+/* eslint-disable no-unused-vars */
+const METRICS_URL = 'https://librato-collector.genius.com/v1/metrics';
+
+function sendToLibrato(body) {
+  if (navigator.sendBeacon) {
+    navigator.sendBeacon(
+      METRICS_URL,
+      new Blob([JSON.stringify(body)], {type: 'application/json'})
+    );
+  } else {
+    fetch(
+      METRICS_URL,
+      {
+        method: 'POST',
+        body: JSON.stringify(body),
+        headers: {'Content-Type': 'application/json'},
+      }
+    );
+  }
+}
+
+function count(name, {source}, extra = {}) {
+  sendToLibrato({counters: [{name, value: 1, source}]});
+  mixpanel.track(name, Object.assign({source}, extra));
+}
+</script>
+  <meta http-equiv="refresh" content="360"></head>
+  <body>
+    <header>
+      <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTUiPjxwYXRoIGQ9Ik0xMS43IDIuOXMwLS4xIDAgMGMtLjgtLjgtMS43LTEuMi0yLjgtMS4yLTEuMSAwLTIuMS40LTIuOCAxLjEtLjIuMi0uMy40LS41LjZ2LjFjMCAuMS4xLjEuMS4xLjQtLjIuOS0uMyAxLjQtLjMgMS4xIDAgMi4yLjUgMi45IDEuMmgxLjZjLjEgMCAuMS0uMS4xLS4xVjIuOWMuMSAwIDAgMCAwIDB6bS0uMSA0LjZoLTEuNWMtLjggMC0xLjQtLjYtMS41LTEuNC4xIDAgMC0uMSAwLS4xLS4zIDAtLjYuMi0uOC40di4yYy0uNiAxLjguMSAyLjQuOSAyLjRoMS4xYy4xIDAgLjEuMS4xLjF2LjRjMCAuMS4xLjEuMS4xLjYtLjEgMS4yLS40IDEuNy0uOFY3LjZjLjEgMCAwLS4xLS4xLS4xeiIvPjxwYXRoIGQ9Ik0xMS42IDExLjlzLS4xIDAgMCAwYy0uMSAwLS4xIDAgMCAwLS4xIDAtLjEgMCAwIDAtLjguMy0xLjYuNS0yLjUuNS0zLjcgMC02LjgtMy02LjgtNi44IDAtLjkuMi0xLjcuNS0yLjUgMC0uMS0uMS0uMS0uMi0uMWgtLjFDMS40IDQuMi44IDUuNy44IDcuNWMwIDMuNiAyLjkgNi40IDYuNCA2LjQgMS43IDAgMy4zLS43IDQuNC0xLjhWMTJjLjEgMCAwLS4xIDAtLjF6bTEzLjctMy4xaDMuNWMuOCAwIDEuNC0uNSAxLjQtMS4zdi0uMmMwLS4xLS4xLS4xLS4xLS4xaC00LjhjLS4xIDAtLjEuMS0uMS4xdjEuNGMtLjEgMCAwIC4xLjEuMXptNS4xLTYuN2gtNS4yYy0uMSAwLS4xLjEtLjEuMXYxLjRjMCAuMS4xLjEuMS4xSDI5Yy44IDAgMS40LS41IDEuNC0xLjN2LS4yYy4xLS4xLjEtLjEgMC0uMXoiLz48cGF0aCBkPSJNMzAuNCAxMi4zaC02LjFjLTEgMC0xLjYtLjYtMS42LTEuNlYxYzAtLjEtLjEtLjEtLjEtLjEtMS4xIDAtMS44LjctMS44IDEuOFYxMmMwIDEuMS43IDEuOCAxLjggMS44SDI5Yy44IDAgMS40LS42IDEuNC0xLjN2LS4xYy4xIDAgLjEtLjEgMC0uMXptMTIgMGMtLjYtLjEtLjktLjYtLjktMS4zVjEuMXMwLS4xLS4xLS4xSDQxYy0uOSAwLTEuNS42LTEuNSAxLjV2OS45YzAgLjkuNiAxLjUgMS41IDEuNS44IDAgMS40LS42IDEuNS0xLjUgMC0uMSAwLS4xLS4xLS4xem04LjIgMGgtLjJjLS45IDAtMS40LS40LTEuOC0xLjFsLTQuNS03LjQtLjEtLjFjLS4xIDAtLjEuMS0uMS4xVjhsMi44IDQuN2MuNC42LjkgMS4yIDIgMS4yIDEgMCAxLjctLjUgMi0xLjQgMC0uMi0uMS0uMi0uMS0uMnptLS45LTMuOGMuMSAwIC4xLS4xLjEtLjFWMS4xYzAtLjEgMC0uMS0uMS0uMWgtLjRjLS45IDAtMS41LjYtMS41IDEuNXYzLjFsMS43IDIuOGMuMSAwIC4xLjEuMi4xem0xMyAzLjhjLS42LS4xLS45LS42LS45LTEuMnYtMTBjMC0uMSAwLS4xLS4xLS4xaC0uM2MtLjkgMC0xLjUuNi0xLjUgMS41djkuOWMwIC45LjYgMS41IDEuNSAxLjUuOCAwIDEuNC0uNiAxLjUtMS41bC0uMi0uMXptMTguNC0uNUg4MWMtLjcuMy0xLjUuNS0yLjUuNS0xLjYgMC0yLjktLjUtMy43LTEuNC0uOS0xLTEuNC0yLjQtMS40LTQuMlYxYzAtLjEgMC0uMS0uMS0uMUg3M2MtLjkgMC0xLjUuNi0xLjUgMS41VjhjMCAzLjcgMiA1LjkgNS40IDUuOSAxLjkgMCAzLjQtLjcgNC4zLTEuOXYtLjFjMC0uMSAwLS4xLS4xLS4xeiIvPjxwYXRoIGQ9Ik04MS4yLjloLS4zYy0uOSAwLTEuNS42LTEuNSAxLjV2NS43YzAgLjctLjEgMS4zLS4zIDEuOCAwIC4xLjEuMS4xLjEgMS40LS4zIDIuMS0xLjQgMi4xLTMuM1YxYzAtLjEtLjEtLjEtLjEtLjF6bTEyLjcgNy42bDEuNC4zYzEuNS4zIDEuNi44IDEuNiAxLjIgMCAuMS4xLjEuMS4xIDEuMS0uMSAxLjgtLjcgMS44LTEuNXMtLjYtMS4yLTEuOS0xLjVsLTEuNC0uM2MtMy4yLS42LTMuOC0yLjMtMy44LTMuNiAwLS43LjItMS4zLjYtMS45di0uMmMwLS4xLS4xLS4xLS4xLS4xLTEuNS43LTIuMyAxLjktMi4zIDMuNC0uMSAyLjMgMS4zIDMuNyA0IDQuMXptNS4yIDMuMmMtLjEuMS0uMS4xIDAgMC0uOS40LTEuOC42LTIuOC42LTEuNiAwLTMtLjUtNC4zLTEuNC0uMy0uMy0uNS0uNi0uNS0xIDAtLjEgMC0uMS0uMS0uMXMtLjMtLjEtLjQtLjFjLS40IDAtLjguMi0xLjEuNi0uMi4zLS40LjctLjMgMS4xLjEuNC4zLjcuNiAxIDEuNCAxIDIuOCAxLjUgNC41IDEuNSAyIDAgMy43LS43IDQuNS0xLjl2LS4xYzAtLjEgMC0uMi0uMS0uMnoiLz48cGF0aCBkPSJNOTQuMSAzLjJjMCAuMS4xLjEuMS4xaC4yYzEuMSAwIDEuNy4zIDIuNC44LjMuMi42LjMgMSAuM3MuOC0uMiAxLjEtLjZjLjItLjMuMy0uNi4zLS45IDAtLjEgMC0uMS0uMS0uMS0uMiAwLS4zLS4xLS41LS4yLS44LS42LTEuNC0uOS0yLjYtLjktMS4yIDAtMiAuNi0yIDEuNC4xIDAgLjEgMCAuMS4xeiIvPjwvc3ZnPgo=" alt="Genius logo"/>
+    </header>
+    <main>
+      <div class="text alert">
+        <h1>Scrrrr!!</h1>
+        <div class="dek">Sorry, we have to make sure you're a human before we can show you this page.</div>
+        <div class="cloudflare_content">
+          <div class="main-wrapper" role="main"><div class="main-content"><noscript><div class="h2"><span id="challenge-error-text">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script>(function(){window._cf_chl_opt = {cFPWv: 'b',cH: '_M3hEAd5LBVzo3V0qF96.s_2QawtTFvBHZVom7vMZNM-1792567915-1.2.1.1-wJ49QU7N3pHepz88k6.OmEl2qM6fiY3PNxMr3CFPSJtn5JSvOvh6MlDZqDpLzOHu',cITimeS: '1792567915',cRay: 'a4de90bcf8284901',cTplC:1,cTplO:0,cTplV:5,cType: 'interactive',cUPMDTk:"/api/search/multi?q=tu+hai+kahan\u0026__cf_chl_tk=bqjuyp6bx8DLiwl8h4.G9H0gFogh0qXqeDrGGHe3t5U-1792567915-1.0.1.1-6ZI1GZPJib.jpD0qcjDgpyTF8vVuVF_3gUBpdZeHqXE",cvId: '3',cZone: 'genius.com',fa:"/api/search/multi?q=tu+hai+kahan\u0026__cf_chl_f_tk=bqjuyp6bx8DLiwl8h4.G9H0gFogh0qXqeDrGGHe3t5U-1792567915-1.0.1.1-6ZI1GZPJib.jpD0qcjDgpyTF8vVuVF_3gUBpdZeHqXE",md: '7pRFasFXsAlwRA5V4eCyNSFTfbcmgoC_4PLAbrL921U-1792567915-1.2.1.1-d6NiW3kL6m8tRiFMdgFrjOMnH007RBpyhnLrDR5VF4m33LTK1Jlbt36T7cefQGXccm29Pn1noO.Gl6zja_o6rhcysGCPgYcz6lAIKxp_GW.IpQtjUPyXjTeITFYAH5dQmFjFCle5nRMAxfcm3_HBjpBjN3QneLdfRnhkh3oIn6WnhnJgqAIZoFQ8BEi9bMLsdfcrZJRb6L3u.d3xVZ5Yi2IGwgd4aPWveB5cg.yANVuLyoA_GTXHLfj2EApGhDn0G.Q_7TLvZg05HiEX5GvlARdNXBELMYsQzTfV9C6It4.y78DAgjofL5JeToDlF3GZ9FzuMd.2TpXFqQ4kHEnif3ykfKAofPwfWy701xUhhJJql.Nw8TVFdSldg4N_UDYk62q9dyXVOw.a6Jq_yUPD_hzHJk5jEKHIGrxM5N4Cxl0.2_dmIQsJowATbjl._IyF4W9YqkUGupceWGXm8xqPIYFvlR8_i4rWRQofPDeYYi9K4CLMF5cIvFGgQfOZJ8FtAp_oBOoSzoVR418vki1k07AlOPBVpNj7G8QR_a7MBpzuZgX_flAKVcrbpTGx87EVZgBqEkbycODGV6Nut3E6aBG4LKXigRfcbekS0xSOds7rWoqgKa.br4UbwGTQl3stvu93aikBWGU2qr2v7iQFFmC46FekNMyD3wIoq.PKlwNv610rsemJdR8u_3nobl0F.SgZnk7.KzfUc_m5Dpyqamp69E7gjHZX6beeBiuZuEucdn_Fj38qcYdsBRDWzRsg3YuJye._qjG7fOcXS3.e7MBNzab0YFFhU_mBT7FEkkAnM_cfWS73XkhaRCsiHKd_VBezEAwcb9WNQG5kjRJNZlDBW.FKgafywxx0VmXa9aIclvaX57FL7QQqCZ0tVBx4Whd_HxjOBA7FASUdC_sJYu5FGUqqrBHaEBo2lzed5OraZK1abx92G0T.GNcHSRdP0uo5IbSWrXuBOCffdHvx3j3nhxw6FQ.H7u3ZbUJrRFdLP.QUW43U7Zhf3Lp.8t9dBxzZQmlpnSeN6L4MVV756o2yyV8ybfbKP1qWz3gFeMIIpnmd8zAycX_m8A47BqPIvj12yIQt8_U4f5s_u5Ujh..Ua3_vrEEQEKTj93hM1kY',mdrd: 'hpwCYp41iJbwd0L5pAq2udP9a4PugY.SyfWqHmge6Gg-1792567915-1.2.1.1-q_NZwbN674I788cQE5b0f9BsWbYULx_2EIEebb.05BWPiELDp8DhodyrZUEPtQeXXMKtAVaNUR6itIUYEkcaUJ91DxmWUfGBOrfutx8bqZHOXb4C90FR2YVjXvMZfjxi.VbDkdPTEvAtkBBEi346ciq8Gb25UaF2dtjfxfHWqa4j_e8Ewy7CG6itW95Pdr6yeVULRVDLj3WJvD8CpWSfxj3tLiN9zao8qyTB2wMy8LdnrLBkmE8iWPEOL0RM6Xb9',};var a = document.createElement('script');a.src = '/cdn-cgi/challenge-platform/h/b/orchestrate/chl_page/v1?ray=a4de90bcf8284901';window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null,"/api/search/multi?q=tu+hai+kahan\u0026__cf_chl_rt_tk=bqjuyp6bx8DLiwl8h4.G9H0gFogh0qXqeDrGGHe3t5U-1792567915-1.0.1.1-6ZI1GZPJib.jpD0qcjDgpyTF8vVuVF_3gUBpdZeHqXE"+ window._cf_chl_opt.cOgUHash);a.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName('head')[0].appendChild(a);}());</script>
+        </div>
+      </div>
+
+      <div class="text distractions">
+        <p>
+          <a href="https://twitter.com/genius" class="twitter-follow-button" data-show-count="true" data-size="large" data-dnt="true">Follow @genius</a>
+          <script>!function(t,e,r){var n,s=t.getElementsByTagName(e)[0],i=/^http:/.test(t.location)?"http":"https";t.getElementById(r)||((n=t.createElement(e)).id=r,n.src=i+"://platform.twitter.com/widgets.js",s.parentNode.insertBefore(n,s))}(document,"script","twitter-wjs");</script>
+        </p>
+      </div>
+    </main>
+    <script type="text/javascript">count("cloudflare_error.challenge",{source:"cloudflare"});</script>
+  </body>
+</html>. Response headers: {'Date': 'Wed, 21 Oct 2026 07:31:55 GMT', 'Content-Type': 'text/html; charset=UTF-8', 'Content-Length': '11191', 'Connection': 'close', 'Accept-Ch': 'Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version, UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA', 'Cf-Mitigated': 'challenge', 'X-Frame-Options': 'SAMEORIGIN', 'Server': 'cloudflare', 'Critical-Ch': 'Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version, UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA', 'Cross-Origin-Embedder-Policy': 'require-corp', 'Cross-Origin-Opener-Policy': 'same-origin', 'Cross-Origin-Resource-Policy': 'same-origin', 'Origin-Agent-Cluster': '?1', 'Permissions-Policy': 'accelerometer=(),camera=(),clipboard-read=(),clipboard-write=(),geolocation=(),gyroscope=(),hid=(),magnetometer=(),microphone=(),payment=(),publickey-credentials-get=(),screen-wake-lock=(),serial=(),sync-xhr=(),usb=(),xr-spatial-tracking=*', 'Referrer-Policy': 'same-origin', 'Server-Timing': 'chlray;desc="a4de90bcf8284901"', 'X-Content-Type-Options': 'nosniff', 'Vary': 'accept-encoding', 'set-cookie': '__cf_bm=h6ZRXN1RhL5DtVY9vr9IR6XCpRdmiWCQ18zXYgXUQ6I-1792567915.0381134-1.0.1.1-uW2FnCIF9l9kRHSaPCqxG8U.MUmcLUHsHrm.29sUUnXmbN6eKke9_zlt1RWNPJ5IUfWapbKXsVzsLlW.u3LoVWkUBvYFHRvCTgBV08ubLHJIHLSXFLRdOnAx18bEe6m.; HttpOnly; SameSite=None; Secure; Path=/; Domain=genius.com; Expires=Wed, 21 Oct 2026 08:01:55 GMT', 'CF-RAY': 'a4de90bcf8284901-BOM'}.
+[21-Oct-26 07:38:03 - INFO] - root - Stop signal received (SIGTERM). Exiting...
+[21-Oct-26 07:38:04 - INFO] - ArchMusic - Stopping Arch Music Bot! GoodBye
+[21-Oct-26 07:38:10 - INFO] - ArchMusic.core.dir - Directories Updated.
+[21-Oct-26 07:38:10 - INFO] - ArchMusic.core.git - Git Client Found [VPS DEPLOYER]
+[21-Oct-26 07:38:10 - INFO] - ArchMusic.misc - Database Initialized.
+[21-Oct-26 07:38:10 - INFO] - ArchMusic.misc - Sudoers Loaded.
+[21-Oct-26 07:38:10 - INFO] - ArchMusic.core.bot - Starting Bot
+[21-Oct-26 07:38:12 - WARNING] - ArchMusic - No Spotify Vars defined. Your bot won't be able to play spotify queries.
+[21-Oct-26 07:38:17 - INFO] - ArchMusic.core.bot - MusicBot Started as —͟͞Ꭰᴇsᴛɪɴʏㅤ〆 ᴍᴜsɪᴄ
+[21-Oct-26 07:38:17 - INFO] - ArchMusic.plugins - Successfully Imported Modules 
+[21-Oct-26 07:38:17 - INFO] - ArchMusic.core.userbot - Starting Assistant Clients
+[21-Oct-26 07:38:23 - INFO] - ArchMusic.core.userbot - Assistant Started as 🌸𝆺𝅥⃝🍃 ⃪ͥ͢ ᷟ ᛕɪᴛᴛʏ𓆪•┼⃖‌ꭗ🎋✨️
+[21-Oct-26 07:38:23 - INFO] - ArchMusic.core.call - Starting PyTgCalls Client
+
+[21-Oct-26 07:38:43 - INFO] - ArchMusic - Arch Music Bot Started Successfully
+[22-Oct-26 05:49:50 - INFO] - ArchMusic.core.dir - Directories Updated.
+[22-Oct-26 05:49:50 - INFO] - ArchMusic.core.git - Git Client Found [VPS DEPLOYER]
+[22-Oct-26 05:49:50 - INFO] - ArchMusic.misc - Database Initialized.
+[22-Oct-26 05:49:51 - INFO] - ArchMusic.misc - Sudoers Loaded.
+[22-Oct-26 05:49:51 - INFO] - ArchMusic.core.bot - Starting Bot
+[22-Oct-26 05:49:51 - WARNING] - ArchMusic - No Spotify Vars defined. Your bot won't be able to play spotify queries.
+[22-Oct-26 05:50:03 - INFO] - ArchMusic.core.bot - MusicBot Started as —͟͞Ꭰᴇsᴛɪɴʏㅤ〆 ᴍᴜsɪᴄ
+[22-Oct-26 05:50:03 - INFO] - ArchMusic.plugins - Successfully Imported Modules 
+[22-Oct-26 05:50:03 - INFO] - ArchMusic.core.userbot - Starting Assistant Clients
+[22-Oct-26 05:50:09 - INFO] - ArchMusic.core.userbot - Assistant Started as 🌸𝆺𝅥⃝🍃 ⃪ͥ͢ ᷟ ᛕɪᴛᴛʏ𓆪•┼⃖‌ꭗ🎋✨️
+[22-Oct-26 05:50:09 - INFO] - ArchMusic.core.call - Starting PyTgCalls Client
+
+[22-Oct-26 05:50:21 - INFO] - ArchMusic - Arch Music Bot Started Successfully
+[22-Oct-26 05:55:02 - INFO] - httpx - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+[22-Oct-26 06:10:26 - INFO] - ArchMusic.core.dir - Directories Updated.
+[22-Oct-26 06:10:26 - INFO] - ArchMusic.core.git - Git Client Found [VPS DEPLOYER]
+[22-Oct-26 06:10:26 - INFO] - ArchMusic.misc - Database Initialized.
+[22-Oct-26 06:10:26 - INFO] - ArchMusic.misc - Sudoers Loaded.
+[22-Oct-26 06:10:26 - INFO] - ArchMusic.core.bot - Starting Bot
+[22-Oct-26 06:10:30 - WARNING] - ArchMusic - No Spotify Vars defined. Your bot won't be able to play spotify queries.
+[22-Oct-26 06:10:42 - INFO] - ArchMusic.core.bot - MusicBot Started as —͟͞Ꭰᴇsᴛɪɴʏㅤ〆 ᴍᴜsɪᴄ
+[22-Oct-26 06:10:42 - INFO] - ArchMusic.plugins - Successfully Imported Modules
+[22-Oct-26 06:10:42 - INFO] - ArchMusic.core.userbot - Starting Assistant Clients
+[22-Oct-26 06:10:48 - INFO] - ArchMusic.core.userbot - Assistant Started as 🌸𝆺𝅥⃝🍃 ⃪ͥ͢ ᷟ ᛕɪᴛᴛʏ𓆪•┼⃖‌ꭗ🎋✨️
+[22-Oct-26 06:10:48 - INFO] - ArchMusic.core.call - Starting PyTgCalls Client
+
+[22-Oct-26 06:11:01 - INFO] - httpx - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+[22-Oct-26 06:11:06 - ERROR] - ArchMusic.utils.song_cache - PCM cache path failed for AX6OrbgS8lI; using legacy playback
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/yt_dlp/YoutubeDL.py", line 1728, in wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/yt_dlp/YoutubeDL.py", line 1863, in __extract_info
+    ie_result = ie.extract(url)
+                ^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/yt_dlp/extractor/common.py", line 764, in extract
+    ie_result = self._real_extract(url)
+                ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/yt_dlp/extractor/youtube/_video.py", line 4083, in _real_extract
+    self.raise_no_formats(reason, expected=True)
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/yt_dlp/extractor/common.py", line 1271, in raise_no_formats
+    raise ExtractorError(msg, expected=expected, video_id=video_id)
+yt_dlp.utils.ExtractorError: [youtube] AX6OrbgS8lI: Sign in to confirm you’re not a bot. This helps protect our community. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/runner/workspace/ArchMusic/utils/song_cache.py", line 240, in prepare_cached_pcm
+    source_path, info = await _download_source(
+                        ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/ArchMusic/utils/song_cache.py", line 142, in _download_source
+    return await asyncio.get_running_loop().run_in_executor(None, download)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/nix/store/iizfzmqjdfvbyx82gqw92glb5zl6m4my-python3-3.12.12/lib/python3.12/concurrent/futures/thread.py", line 59, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/ArchMusic/utils/song_cache.py", line 125, in download
+    info = ydl.extract_info(
+           ^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/yt_dlp/YoutubeDL.py", line 1717, in extract_info
+    return self.__extract_info(url, self.get_info_extractor(key), download, extra_info, process)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/yt_dlp/YoutubeDL.py", line 1746, in wrapper
+    self.report_error(str(e), e.format_traceback())
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/yt_dlp/YoutubeDL.py", line 1162, in report_error
+    self.trouble(f'{self._format_err("ERROR:", self.Styles.ERROR)} {message}', *args, **kwargs)
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/yt_dlp/YoutubeDL.py", line 1100, in trouble
+    raise DownloadError(message, exc_info if exc_info and exc_info[0] else sys.exc_info())
+yt_dlp.utils.DownloadError: [0;31mERROR:[0m [youtube] AX6OrbgS8lI: Sign in to confirm you’re not a bot. This helps protect our community. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+[22-Oct-26 06:11:11 - INFO] - ArchMusic - Arch Music Bot Started Successfully
+[22-Oct-26 06:15:40 - INFO] - root - Stop signal received (SIGTERM). Exiting...
+[22-Oct-26 06:15:40 - INFO] - ArchMusic - Stopping Arch Music Bot! GoodBye
+[22-Oct-26 06:15:43 - INFO] - ArchMusic.core.dir - Directories Updated.
+[22-Oct-26 06:15:43 - INFO] - ArchMusic.core.git - Git Client Found [VPS DEPLOYER]
+[22-Oct-26 06:15:43 - INFO] - ArchMusic.misc - Database Initialized.
+[22-Oct-26 06:15:43 - INFO] - ArchMusic.misc - Sudoers Loaded.
+[22-Oct-26 06:15:43 - INFO] - ArchMusic.core.bot - Starting Bot
+[22-Oct-26 06:15:44 - WARNING] - ArchMusic - No Spotify Vars defined. Your bot won't be able to play spotify queries.
+[22-Oct-26 06:15:48 - INFO] - ArchMusic.core.bot - MusicBot Started as —͟͞Ꭰᴇsᴛɪɴʏㅤ〆 ᴍᴜsɪᴄ
+[22-Oct-26 06:15:48 - INFO] - ArchMusic.plugins - Successfully Imported Modules
+[22-Oct-26 06:15:48 - INFO] - ArchMusic.core.userbot - Starting Assistant Clients
+[22-Oct-26 06:15:53 - INFO] - ArchMusic.core.userbot - Assistant Started as 🌸𝆺𝅥⃝🍃 ⃪ͥ͢ ᷟ ᛕɪᴛᴛʏ𓆪•┼⃖‌ꭗ🎋✨️
+[22-Oct-26 06:15:53 - INFO] - ArchMusic.core.call - Starting PyTgCalls Client
+
+[22-Oct-26 06:16:04 - INFO] - ArchMusic - Arch Music Bot Started Successfully
+[22-Oct-26 06:16:16 - INFO] - httpx - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+[22-Oct-26 06:16:16 - INFO] - ArchMusic.utils.song_cache - Using configured audio provider for AX6OrbgS8lI
+[22-Oct-26 06:16:29 - ERROR] - ArchMusic.utils.song_cache - PCM cache path failed for AX6OrbgS8lI; using legacy playback
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pyrogram/methods/advanced/resolve_peer.py", line 62, in resolve_peer
+    return await self.storage.get_peer_by_id(peer_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pyrogram/storage/sqlite_storage.py", line 142, in get_peer_by_id
+    raise KeyError(f"ID not found: {peer_id}")
+KeyError: 'ID not found: -1004420366977'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/runner/workspace/ArchMusic/utils/song_cache.py", line 278, in prepare_cached_pcm
+    cached_message = await assistant.send_document(
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pyrogram/methods/messages/send_document.py", line 195, in send_document
+    peer=await self.resolve_peer(chat_id),
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pyrogram/methods/advanced/resolve_peer.py", line 111, in resolve_peer
+    await self.invoke(
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pyrogram/methods/advanced/invoke.py", line 79, in invoke
+    r = await self.session.invoke(
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pyrogram/session/session.py", line 389, in invoke
+    return await self.send(query, timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pyrogram/session/session.py", line 357, in send
+    RPCError.raise_it(result, type(data))
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pyrogram/errors/rpc_error.py", line 91, in raise_it
+    raise getattr(
+pyrogram.errors.exceptions.bad_request_400.ChannelInvalid: Telegram says: [400 CHANNEL_INVALID] - The channel parameter is invalid (caused by "channels.GetChannels")
+[22-Oct-26 06:18:39 - INFO] - httpx - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+[22-Oct-26 06:18:40 - INFO] - ArchMusic.utils.song_cache - Using configured audio provider for AX6OrbgS8lI
+[22-Oct-26 06:18:52 - ERROR] - ArchMusic.utils.song_cache - PCM cache path failed for AX6OrbgS8lI; using legacy playback
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pyrogram/methods/advanced/resolve_peer.py", line 62, in resolve_peer
+    return await self.storage.get_peer_by_id(peer_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pyrogram/storage/sqlite_storage.py", line 142, in get_peer_by_id
+    raise KeyError(f"ID not found: {peer_id}")
+KeyError: 'ID not found: -1004420366977'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/runner/workspace/ArchMusic/utils/song_cache.py", line 278, in prepare_cached_pcm
+    await _convert_to_pcm(source_path, pcm_path)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pyrogram/methods/messages/send_document.py", line 195, in send_document
+    peer=await self.resolve_peer(chat_id),
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pyrogram/methods/advanced/resolve_peer.py", line 111, in resolve_peer
+    await self.invoke(
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pyrogram/methods/advanced/invoke.py", line 79, in invoke
+    r = await self.session.invoke(
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pyrogram/session/session.py", line 389, in invoke
+    return await self.send(query, timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pyrogram/session/session.py", line 357, in send
+    RPCError.raise_it(result, type(data))
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pyrogram/errors/rpc_error.py", line 91, in raise_it
+    raise getattr(
+pyrogram.errors.exceptions.bad_request_400.ChannelInvalid: Telegram says: [400 CHANNEL_INVALID] - The channel parameter is invalid (caused by "channels.GetChannels")
+[22-Oct-26 06:19:03 - INFO] - root - Stop signal received (SIGTERM). Exiting...
+[22-Oct-26 06:19:03 - INFO] - ArchMusic - Stopping Arch Music Bot! GoodBye
+[22-Oct-26 06:19:05 - INFO] - ArchMusic.core.dir - Directories Updated.
+[22-Oct-26 06:19:05 - INFO] - ArchMusic.core.git - Git Client Found [VPS DEPLOYER]
+[22-Oct-26 06:19:05 - INFO] - ArchMusic.misc - Database Initialized.
+[22-Oct-26 06:19:06 - INFO] - ArchMusic.misc - Sudoers Loaded.
+[22-Oct-26 06:19:06 - INFO] - ArchMusic.core.bot - Starting Bot
+[22-Oct-26 06:19:06 - WARNING] - ArchMusic - No Spotify Vars defined. Your bot won't be able to play spotify queries.
+[22-Oct-26 06:19:11 - INFO] - ArchMusic.core.bot - MusicBot Started as —͟͞Ꭰᴇsᴛɪɴʏㅤ〆 ᴍᴜsɪᴄ
+[22-Oct-26 06:19:11 - INFO] - ArchMusic.plugins - Successfully Imported Modules
+[22-Oct-26 06:19:11 - INFO] - ArchMusic.core.userbot - Starting Assistant Clients
+[22-Oct-26 06:19:17 - INFO] - ArchMusic.core.userbot - Assistant Started as 🌸𝆺𝅥⃝🍃 ⃪ͥ͢ ᷟ ᛕɪᴛᴛʏ𓆪•┼⃖‌ꭗ🎋✨️
+[22-Oct-26 06:19:17 - INFO] - ArchMusic.core.call - Starting PyTgCalls Client
+
+[22-Oct-26 06:19:33 - INFO] - ArchMusic - Arch Music Bot Started Successfully
+[22-Oct-26 06:19:41 - INFO] - httpx - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+[22-Oct-26 06:20:07 - INFO] - ArchMusic.utils.song_cache - Using configured audio provider for ntlEN0nPDYo
+[22-Oct-26 07:03:47 - INFO] - ArchMusic.core.dir - Directories Updated.
+[22-Oct-26 07:03:47 - INFO] - ArchMusic.core.git - Git Client Found [VPS DEPLOYER]
+[22-Oct-26 07:03:47 - INFO] - ArchMusic.misc - Database Initialized.
+[22-Oct-26 07:03:48 - INFO] - ArchMusic.misc - Sudoers Loaded.
+[22-Oct-26 07:03:48 - INFO] - ArchMusic.core.bot - Starting Bot
+[22-Oct-26 07:03:52 - WARNING] - ArchMusic - No Spotify Vars defined. Your bot won't be able to play spotify queries.
+[22-Oct-26 07:04:04 - INFO] - ArchMusic.core.bot - MusicBot Started as —͟͞Ꭰᴇsᴛɪɴʏㅤ〆 ᴍᴜsɪᴄ
+[22-Oct-26 07:04:04 - INFO] - ArchMusic.plugins - Successfully Imported Modules 
+[22-Oct-26 07:04:04 - INFO] - ArchMusic.core.userbot - Starting Assistant Clients
+[22-Oct-26 07:04:10 - INFO] - ArchMusic.core.userbot - Assistant Started as 🌸𝆺𝅥⃝🍃 ⃪ͥ͢ ᷟ ᛕɪᴛᴛʏ𓆪•┼⃖‌ꭗ🎋✨️
+[22-Oct-26 07:04:10 - INFO] - ArchMusic.core.call - Starting PyTgCalls Client
+
+[22-Oct-26 07:04:15 - ERROR] - ArchMusic.utils.song_cache - Unable to check PCM cache assistant access; using normal playback
+Traceback (most recent call last):
+  File "/home/runner/workspace/ArchMusic/utils/song_cache.py", line 110, in initialize_song_cache
+    from ArchMusic.core.userbot import assistants, userbot
+ImportError: cannot import name 'userbot' from 'ArchMusic.core.userbot' (/home/runner/workspace/ArchMusic/core/userbot.py). Did you mean: 'Userbot'?
+[22-Oct-26 07:04:34 - INFO] - ArchMusic - Arch Music Bot Started Successfully
+[22-Oct-26 07:04:55 - INFO] - root - Stop signal received (SIGTERM). Exiting...
+[22-Oct-26 07:04:55 - INFO] - ArchMusic - Stopping Arch Music Bot! GoodBye
+[22-Oct-26 07:04:58 - INFO] - ArchMusic.core.dir - Directories Updated.
+[22-Oct-26 07:04:58 - INFO] - ArchMusic.core.git - Git Client Found [VPS DEPLOYER]
+[22-Oct-26 07:04:58 - INFO] - ArchMusic.misc - Database Initialized.
+[22-Oct-26 07:04:59 - INFO] - ArchMusic.misc - Sudoers Loaded.
+[22-Oct-26 07:04:59 - INFO] - ArchMusic.core.bot - Starting Bot
+[22-Oct-26 07:05:00 - WARNING] - ArchMusic - No Spotify Vars defined. Your bot won't be able to play spotify queries.
+[22-Oct-26 07:05:05 - INFO] - ArchMusic.core.bot - MusicBot Started as —͟͞Ꭰᴇsᴛɪɴʏㅤ〆 ᴍᴜsɪᴄ
+[22-Oct-26 07:05:05 - INFO] - ArchMusic.plugins - Successfully Imported Modules 
+[22-Oct-26 07:05:05 - INFO] - ArchMusic.core.userbot - Starting Assistant Clients
+[22-Oct-26 07:05:12 - INFO] - ArchMusic.core.userbot - Assistant Started as 🌸𝆺𝅥⃝🍃 ⃪ͥ͢ ᷟ ᛕɪᴛᴛʏ𓆪•┼⃖‌ꭗ🎋✨️
+[22-Oct-26 07:05:12 - INFO] - ArchMusic.core.call - Starting PyTgCalls Client
+
+[22-Oct-26 07:05:18 - INFO] - ArchMusic.utils.song_cache - Assistant 7993801624 can access the PCM cache group
+[22-Oct-26 07:05:18 - INFO] - ArchMusic.utils.song_cache - PCM cache ready; 1 assistant(s) can access the cache group
+[22-Oct-26 07:05:24 - INFO] - ArchMusic - Arch Music Bot Started Successfully
+[22-Oct-26 07:05:58 - INFO] - httpx - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+[22-Oct-26 07:06:03 - INFO] - httpx - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+[22-Oct-26 07:06:21 - INFO] - ArchMusic.utils.song_cache - Uploaded PCM cache entry for oUM-fttuDqw
+[22-Oct-26 07:32:22 - INFO] - ArchMusic.core.dir - Directories Updated.
+[22-Oct-26 07:32:22 - INFO] - ArchMusic.core.git - Git Client Found [VPS DEPLOYER]
+[22-Oct-26 07:32:22 - INFO] - ArchMusic.misc - Database Initialized.
+[22-Oct-26 07:32:22 - INFO] - ArchMusic.misc - Sudoers Loaded.
+[22-Oct-26 07:32:22 - INFO] - ArchMusic.core.bot - Starting Bot
+[22-Oct-26 07:32:23 - WARNING] - ArchMusic - No Spotify Vars defined. Your bot won't be able to play spotify queries.
+[22-Oct-26 07:32:33 - INFO] - ArchMusic.core.bot - MusicBot Started as —͟͞Ꭰᴇsᴛɪɴʏㅤ〆 ᴍᴜsɪᴄ
+[22-Oct-26 07:32:33 - INFO] - ArchMusic.plugins - Successfully Imported Modules 
+[22-Oct-26 07:32:33 - INFO] - ArchMusic.core.userbot - Starting Assistant Clients
+[22-Oct-26 07:32:39 - INFO] - ArchMusic.core.userbot - Assistant Started as 🌸𝆺𝅥⃝🍃 ⃪ͥ͢ ᷟ ᛕɪᴛᴛʏ𓆪•┼⃖‌ꭗ🎋✨️
+[22-Oct-26 07:32:39 - INFO] - ArchMusic.core.call - Starting PyTgCalls Client
+
+[22-Oct-26 07:32:51 - INFO] - ArchMusic.utils.song_cache - PCM cache ready; 1 assistant(s) can access the cache group
+[22-Oct-26 07:32:51 - INFO] - ArchMusic.utils.song_cache - Automatic cache join: 🌸𝆺𝅥⃝🍃 ⃪ͥ͢ ᷟ ᛕɪᴛᴛʏ𓆪•┼⃖‌ꭗ🎋✨️/7993801624 -> already in
+[22-Oct-26 07:33:00 - INFO] - ArchMusic - Arch Music Bot Started Successfully
+[23-Oct-26 15:24:10 - INFO] - ArchMusic.core.dir - Directories Updated.
+[23-Oct-26 15:24:10 - INFO] - ArchMusic.core.git - Git Client Found [VPS DEPLOYER]
+[23-Oct-26 15:24:10 - INFO] - ArchMusic.misc - Database Initialized.
+[23-Oct-26 15:25:29 - INFO] - ArchMusic.core.dir - Directories Updated.
+[23-Oct-26 15:25:29 - INFO] - ArchMusic.core.git - Git Client Found [VPS DEPLOYER]
+[23-Oct-26 15:25:29 - INFO] - ArchMusic.misc - Database Initialized.
+[23-Oct-26 15:25:29 - INFO] - ArchMusic.misc - Sudoers Loaded.
+[23-Oct-26 15:25:29 - INFO] - ArchMusic.core.bot - Starting Bot
+[23-Oct-26 15:25:31 - INFO] - ArchMusic - TgCrypto is active in Pyrogram
+[23-Oct-26 15:25:31 - WARNING] - ArchMusic - No Spotify Vars defined. Your bot won't be able to play spotify queries.
+[23-Oct-26 15:25:47 - INFO] - ArchMusic.core.bot - MusicBot Started as —͟͞Ꭰᴇsᴛɪɴʏㅤ〆 ᴍᴜsɪᴄ
+[23-Oct-26 15:25:47 - INFO] - ArchMusic.plugins - Successfully Imported Modules 
+[23-Oct-26 15:25:47 - INFO] - ArchMusic.core.userbot - Starting Assistant Clients
+[23-Oct-26 15:25:53 - INFO] - ArchMusic.core.userbot - Assistant Started as 🌸𝆺𝅥⃝🍃 ⃪ͥ͢ ᷟ ᛕɪᴛᴛʏ𓆪•┼⃖‌ꭗ🎋✨️
+[23-Oct-26 15:25:53 - INFO] - ArchMusic.core.call - Starting PyTgCalls Client
+
+[23-Oct-26 15:25:58 - INFO] - ArchMusic.utils.song_cache - PyTgCalls FFmpeg is wrapped with nice -n 10
+[23-Oct-26 15:25:59 - INFO] - ArchMusic.utils.song_cache - PCM cache ready; 1 assistant(s) can access the cache group
+[23-Oct-26 15:26:03 - INFO] - ArchMusic.utils.song_cache - Automatic cache join: 🌸𝆺𝅥⃝🍃 ⃪ͥ͢ ᷟ ᛕɪᴛᴛʏ𓆪•┼⃖‌ꭗ🎋✨️/7993801624 -> already in
+[23-Oct-26 15:26:14 - INFO] - ArchMusic - Arch Music Bot Started Successfully
+[23-Oct-26 15:27:15 - INFO] - httpx - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+[23-Oct-26 15:27:20 - INFO] - ArchMusic.utils.song_cache - Cache playback time-to-first-audio: video=AX6OrbgS8lI mode=legacy elapsed=5235ms
+[23-Oct-26 15:27:35 - INFO] - ArchMusic.utils.song_cache - Uploaded PCM cache entry for AX6OrbgS8lI
+[23-Oct-26 15:27:52 - INFO] - httpx - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+
+[24-Oct-26 14:33:46 - INFO] - httpx - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+[24-Oct-26 14:36:44 - INFO] - ArchMusic.core.dir - Directories Updated.
+[24-Oct-26 14:36:44 - INFO] - ArchMusic.core.git - Git Client Found [VPS DEPLOYER]
+[24-Oct-26 14:36:44 - INFO] - ArchMusic.misc - Database Initialized.
+[24-Oct-26 14:36:45 - INFO] - ArchMusic.misc - Sudoers Loaded.
+[24-Oct-26 14:36:45 - INFO] - ArchMusic.core.bot - Starting Bot
+[24-Oct-26 14:36:46 - INFO] - ArchMusic - TgCrypto is active in Pyrogram
+[24-Oct-26 14:36:46 - WARNING] - ArchMusic - No Spotify Vars defined. Your bot won't be able to play spotify queries.
+[24-Oct-26 14:36:50 - INFO] - ArchMusic.core.bot - MusicBot Started as —͟͞Ꭰᴇsᴛɪɴʏㅤ〆 ᴍᴜsɪᴄ
+[24-Oct-26 14:36:50 - INFO] - ArchMusic.plugins - Successfully Imported Modules 
+[24-Oct-26 14:36:50 - INFO] - ArchMusic.core.userbot - Starting Assistant Clients
+[24-Oct-26 14:36:57 - INFO] - ArchMusic.core.userbot - Assistant Started as 🌸𝆺𝅥⃝🍃 ⃪ͥ͢ ᷟ ᛕɪᴛᴛʏ𓆪•┼⃖‌ꭗ🎋✨️
+[24-Oct-26 14:36:57 - INFO] - ArchMusic.core.call - Starting PyTgCalls Client
+
+[24-Oct-26 14:37:06 - INFO] - ArchMusic - Arch Music Bot Started Successfully
+[24-Oct-26 14:37:12 - INFO] - httpx - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+[24-Oct-26 14:37:38 - INFO] - httpx - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+[24-Oct-26 14:38:02 - INFO] - httpx - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+[24-Oct-26 14:38:07 - INFO] - httpx - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"

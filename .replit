@@ -1,0 +1,31 @@
+modules = ["python-3.12", "bash"]
+
+[nix]
+channel = "stable-25_05"
+packages = ["cacert", "ffmpeg-full", "freetype", "lcms2", "libimagequant", "libjpeg", "libtiff", "libwebp", "libxcrypt", "libyaml", "openjpeg", "tcl", "tk", "zlib"]
+
+[agent]
+expertMode = true
+
+[workflows]
+runButton = "Project"
+
+[[workflows.workflow]]
+name = "Project"
+mode = "parallel"
+author = "agent"
+
+[[workflows.workflow.tasks]]
+task = "workflow.run"
+args = "Run Telegram bot"
+
+[[workflows.workflow]]
+name = "Run Telegram bot"
+author = "agent"
+
+[workflows.workflow.metadata]
+outputType = "console"
+
+[[workflows.workflow.tasks]]
+task = "shell.exec"
+args = "BOT_TOKEN=\"$TOKEN\" MONGO_DB_URI=\"$MONGO_URI\" LOG_GROUP_ID=\"$LOGGER_ID\" STRING_SESSION=\"$STRING1\" SONG_DOWNLOAD_DURATION_LIMIT=\"$SONG_DURATION_LIMIT\" python3 -m ArchMusic"
